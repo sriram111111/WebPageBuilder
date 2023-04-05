@@ -1,0 +1,10 @@
+.menu-button .arrow {
+    -fx-background-color: transparent;
+    -fx-padding: 0;
+    -fx-margin-top: 50%;
+}
+
+.menu-button{
+    -fx-background-color: transparent;
+    -fx-graphic: url('file:///home/local/ZOHOCORP/sriram-pt6515/IdeaProjects/demo1/src/main/java/com/demo1/demo1/utilities/icons8-ellipsis-16.png');
+    }
